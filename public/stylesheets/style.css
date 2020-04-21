@@ -1,0 +1,17 @@
+body, html {
+  padding: 0;
+  background-color: #ccc;
+}
+
+main {
+  padding: 2em;
+}
+
+#search-result {
+  background-color: #ccc;
+  padding: 1em;
+  border-radius: 5px;
+  max-width: 40em;
+  margin: 0;
+  display: inline-block;
+}
